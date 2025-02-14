@@ -1,4 +1,4 @@
-# NLP-Transformers-Finetuning
+# NLP-Transformers-from-Scratch
 
 ## Overview
 This project is part of the "Natural Language Processing Demystified" series and explores the fundamentals of transformer architectures, pre-training, and transfer learning in NLP. It covers the step-by-step implementation of a transformer model from scratch and fine-tuning pre-trained models using Hugging Face's `transformers` library.
